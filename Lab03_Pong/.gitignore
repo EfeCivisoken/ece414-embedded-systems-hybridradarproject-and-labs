@@ -1,0 +1,27 @@
+# Build files
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Pico SDK stuff
+pico-sdk/
+
+# Object and binary files
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.uf2
+
+# Editor/IDE files
+.vscode/
+*.swp
+*.swo
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db

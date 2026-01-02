@@ -1,0 +1,19 @@
+# CMake / build artifacts also pico-sdk
+build/
+pico-sdk/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Pico outputs
+*.uf2
+*.elf
+*.bin
+*.map
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store

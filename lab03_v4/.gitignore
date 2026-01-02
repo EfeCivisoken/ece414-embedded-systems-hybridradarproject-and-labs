@@ -1,0 +1,14 @@
+/build
+/build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.elf
+*.bin
+*.uf2
+*.hex
+*.map
+*.log
+.DS_Store
+Thumbs.db

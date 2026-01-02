@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RadarFootprints")(type "KiCad")(uri "${KIPRJMOD}/RadarFootprints.pretty")(options "")(descr "Files for the radar project"))
+)

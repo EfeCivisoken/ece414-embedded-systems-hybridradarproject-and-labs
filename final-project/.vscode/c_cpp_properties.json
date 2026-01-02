@@ -1,0 +1,18 @@
+{
+    "configurations": [
+      {
+        "name": "Pico",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "/home/efe_r/ece414-civisoken-ewing/final-project/pico-sdk/**"  
+        ],
+        "defines": [],
+        "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "gcc-arm"
+      }
+    ],
+    "version": 4
+  }
+  
